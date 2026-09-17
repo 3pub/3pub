@@ -1,13 +1,13 @@
-Hello, I'm @3pub
-👀 I'm interested in promoting a healthy and sustainable life.
-🌱 I'm currently working on ginsenoside recipes and cookware materials related to slow aging.
-💞️ I would like to spread the word on recipes and kitchen utensils and machinery in this regard so that everyone can maintain a healthy life. I would like to collaborate if I go in the same direction.
-📫 How to contact me: kimsbakery111@naver.com.
-😄 Pronouns: Sustainable Living and Agriculture
-Based on this, I want to make the value of a healthy life sustainable for production farmers and busy modern people.
-⚡ Interesting fact: I'm growing Korean ginseng with no pesticides and I'm trying to commercialize it by studying the fermentation process of extracting Korean ginseng yeast to make food and beverage sauces.
+안녕하세요, 저는 @3pub입니다 👋
+
+👀 저는 건강하고 지속 가능한 삶을 알리는 데 관심이 있습니다.
+🌱 현재 진세노사이드 레시피와 슬로우 에이징(느린 노화)과 관련된 조리 도구 소재를 연구하고 있습니다.
+💞️ 건강한 삶을 모두가 유지할 수 있도록 레시피와 주방 도구·기계에 대한 정보를 알리고 싶습니다. 같은 방향으로 뜻이 맞으신 분과는 협업도 환영합니다.
+📫 연락처: kimsbakery111@naver.com
+⚡ 흥미로운 사실: 무농약으로 국내산 인삼을 재배하고 있으며, 인삼 발효 효모를 추출하는 공정을 연구하여 식품·음료 소스를 상업화하려고 합니다.
+
+이를 바탕으로, 생산 농가와 바쁜 현대인 모두를 위해 건강한 삶의 가치를 지속 가능하게 만들고자 합니다.
 
 <!---
-3pub/3pub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+3pub/3pub는 여러분의 GitHub 프로필에 표시되는 ✨ 특별한 ✨ 저장소입니다. 
+'Preview' 링크를 눌러 변경 사항을 확인해 보세요.
